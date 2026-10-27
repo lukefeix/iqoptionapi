@@ -10,9 +10,6 @@ test.py
 .venv/
 .env
 
-# teste local com credenciais
-tests/teste_login.py
-
 # relatorios e historicos locais
 .coverage
 coverage.xml
