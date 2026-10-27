@@ -673,10 +673,18 @@ class IQOptionAPI(object):  # pylint: disable=too-many-instance-attributes
         return Sell_Digital_Option(self)
 # ____________________for_______digital____________________
 
+    def get_marginal_underlying(self, instrument_type):
+        # instrument_type = "crypto" / "forex" / "cfd"
+        msg = {"name": "marginal-{}-instruments.get-underlying-list".format(instrument_type),
+               "version": "1.0",
+               "body": {}
+               }
+        self.send_websocket_request(name="sendMessage", msg=msg)
+
     def get_digital_underlying(self):
-        msg = {"name": "get-underlying-list",
-               "version": "2.0",
-               "body": {"type": "digital-option"}
+        msg = {"name": "digital-option-instruments.get-underlying-list",
+               "version": "3.0",
+               "body": {"filter_suspended": True}
                }
         self.send_websocket_request(name="sendMessage", msg=msg)
 
