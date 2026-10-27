@@ -44,6 +44,7 @@ Este fork é gratuito e recebe só as correções para continuar funcionando. Pa
 | Binárias, turbo e digitais | ✅ | ✅ |
 | **Operações Blitz** | ❌ | ✅ |
 | **Funções extras** | ❌ | ✅ |
+| **CONSTANTS.PY** | Precisa atualizar manualmente | Atualiza automático |
 | Velocidade | Lenta | ⚡ **mais rápida** |
 | Atualizações | Desatualizada | 🔄 **totalmente atualizada** |
 
@@ -59,17 +60,17 @@ Este fork é gratuito e recebe só as correções para continuar funcionando. Pa
 
 <div align="center">
 
-![Quotex](https://img.shields.io/badge/Quotex-1f2937?style=for-the-badge)
-![Pocket Option](https://img.shields.io/badge/Pocket%20Option-1f2937?style=for-the-badge)
-![Binomo](https://img.shields.io/badge/Binomo-1f2937?style=for-the-badge)
-![Stockity](https://img.shields.io/badge/Stockity-1f2937?style=for-the-badge)
-![Exnova](https://img.shields.io/badge/Exnova-1f2937?style=for-the-badge)
-![Bullex](https://img.shields.io/badge/Bullex-1f2937?style=for-the-badge)
-![Casatrade](https://img.shields.io/badge/Casatrade-1f2937?style=for-the-badge)
-![Polarium](https://img.shields.io/badge/Polarium-1f2937?style=for-the-badge)
-![Avalon](https://img.shields.io/badge/Avalon-1f2937?style=for-the-badge)
-![Broker 10](https://img.shields.io/badge/Broker%2010-1f2937?style=for-the-badge)
-![e outras](https://img.shields.io/badge/+%20outras-22c55e?style=for-the-badge)
+[![Quotex](https://img.shields.io/badge/Quotex-1f2937?style=for-the-badge)](https://wa.me/5541998892436?text=Ol%C3%A1%20Lucas%2C%20tenho%20interesse%20na%20API%20da%20Quotex)
+[![Pocket Option](https://img.shields.io/badge/Pocket%20Option-1f2937?style=for-the-badge)](https://wa.me/5541998892436?text=Ol%C3%A1%20Lucas%2C%20tenho%20interesse%20na%20API%20da%20Pocket%20Option)
+[![Binomo](https://img.shields.io/badge/Binomo-1f2937?style=for-the-badge)](https://wa.me/5541998892436?text=Ol%C3%A1%20Lucas%2C%20tenho%20interesse%20na%20API%20da%20Binomo)
+[![Stockity](https://img.shields.io/badge/Stockity-1f2937?style=for-the-badge)](https://wa.me/5541998892436?text=Ol%C3%A1%20Lucas%2C%20tenho%20interesse%20na%20API%20da%20Stockity)
+[![Exnova](https://img.shields.io/badge/Exnova-1f2937?style=for-the-badge)](https://wa.me/5541998892436?text=Ol%C3%A1%20Lucas%2C%20tenho%20interesse%20na%20API%20da%20Exnova)
+[![Bullex](https://img.shields.io/badge/Bullex-1f2937?style=for-the-badge)](https://wa.me/5541998892436?text=Ol%C3%A1%20Lucas%2C%20tenho%20interesse%20na%20API%20da%20Bullex)
+[![Casatrade](https://img.shields.io/badge/Casatrade-1f2937?style=for-the-badge)](https://wa.me/5541998892436?text=Ol%C3%A1%20Lucas%2C%20tenho%20interesse%20na%20API%20da%20Casatrade)
+[![Polarium](https://img.shields.io/badge/Polarium-1f2937?style=for-the-badge)](https://wa.me/5541998892436?text=Ol%C3%A1%20Lucas%2C%20tenho%20interesse%20na%20API%20da%20Polarium)
+[![Avalon](https://img.shields.io/badge/Avalon-1f2937?style=for-the-badge)](https://wa.me/5541998892436?text=Ol%C3%A1%20Lucas%2C%20tenho%20interesse%20na%20API%20da%20Avalon)
+[![Broker 10](https://img.shields.io/badge/Broker%2010-1f2937?style=for-the-badge)](https://wa.me/5541998892436?text=Ol%C3%A1%20Lucas%2C%20tenho%20interesse%20na%20API%20da%20Broker%2010)
+[![e outras](https://img.shields.io/badge/+%20outras-22c55e?style=for-the-badge)](https://wa.me/5541998892436?text=Ol%C3%A1%20Lucas%2C%20quero%20uma%20API%20para%20a%20corretora%3A%20)
 
 **🛠️ Faço API personalizada para qualquer corretora.**
 
