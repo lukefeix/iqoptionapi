@@ -1,52 +1,151 @@
-## AJUDE A MANTER O PROJETO ATIVO
-EN: HELP KEEPING THIS PROJECT ACTIVE <br>
+<div align="center">
 
-Para manter o projeto continuamente atualizado contribua com uma doação, com alguma correção ou melhoria.
+<a href="https://www.youtube.com/@lucascode"><img src="image/readme/banner.svg" width="100%" alt="IQ Option API — fork mantido por Lucas Feix, canal Lucas Code"></a>
 
-As doações serão usadas para adicionar novas features citadas abaixo.
+<a href="https://www.youtube.com/@lucascode"><img src="https://img.shields.io/badge/YouTube-@lucascode-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+<a href="https://wa.me/5541998892436"><img src="https://img.shields.io/badge/WhatsApp-41%2099889--2436-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="mailto:lukefeix@gmail.com"><img src="https://img.shields.io/badge/E--mail-lukefeix@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 
-https://streamelements.com/iqoptionapi/tip
-<br><br>
-## Español - AYUDA A MANTENER ESTE PROYECTO ACTIVO 
-Para mantener el proyecto continuamente actualizado, contribuye con una donación, con cualquier corrección o mejora.
+<img src="https://img.shields.io/badge/python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 3.10+">
+<img src="https://img.shields.io/badge/versão-7.1.3-22c55e?style=flat-square" alt="versão 7.1.3">
+<img src="https://img.shields.io/badge/websocket--client-1.9.2-22c55e?style=flat-square" alt="websocket-client 1.9.2">
+<img src="https://img.shields.io/badge/status-funcionando-22c55e?style=flat-square" alt="status: funcionando">
 
-Las donaciones se utilizarán para agregar nuevas funciones que se mencionan a continuación.
+### Fork mantido por **Lucas Feix**, criador do canal **[Lucas Code](https://www.youtube.com/@lucascode)**
 
-EN: To keep the project continuously updated you can contribute with a donation or with some correction or improvement.
+Fork de [iqoptionapi/iqoptionapi](https://github.com/iqoptionapi/iqoptionapi), **apenas com as atualizações necessárias para deixá-la funcional** de novo.
 
-https://streamelements.com/iqoptionapi/tip
-<br><br>
+</div>
 
-## HELP KEEPING THIS PROJECT ACTIVE
+---
 
-To keep project continuously updated, contribute with a donation, with any correction or improvement.
+## 📺 Aprenda no canal Lucas Code
 
-Donations will be used to add new features mentioned below.
+No canal eu ensino a **criar robôs para a IQ Option com Python**, do zero, usando esta API.
 
-https://streamelements.com/iqoptionapi/tip
-<br><br>
+<div align="center">
 
-## PLANEJAMENTO DE NOVAS FEATURES 
-EN: NEW FEATURES PLANNING<br>
-ES: PLANIFICACIÓN DE NUEVAS CARACTERÍSTICAS
+<a href="https://www.youtube.com/@lucascode?sub_confirmation=1"><img src="https://img.shields.io/badge/▶%20%20Inscreva--se%20no%20canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="42" alt="Inscreva-se no canal"></a>
 
+</div>
 
-- CALENDARIO ECONOMICO / ECONOMIC CALENDAR (UNDER DEVELOPMENT)
-<br><br>
-Descrição: 
-Pega o calendario econimico da iqoption.
-Essa feature vai possibilitar que vocês possar evitar fazer operações quando estiver muito arriscado.
-<br/><br/>
+> [!TIP]
+> O código de todas as aulas está em **[Robô de MHI para IQ Option: aulas completas](https://github.com/lukefeix/Rob-de-MHI-para-IQoption-Aulas-Completas)**.
 
-![ECONOMIC CALENDAR](image/econimic_calendar.png)
-<br/>
+---
 
-- FEED DE NOTICIAS/ NEWS FEED 
-<br><br>
-Descrição: 
-Noticias sobre o mercado 
-![NEWS FEED](image/news_feed.png)
-<br/><br/>
+## 💎 Versão paga: completa e sempre atualizada
+
+Este fork é gratuito e recebe só as correções para continuar funcionando. Para quem precisa de mais, existe a **versão paga**:
+
+| | Este fork (grátis) | 💎 Versão paga |
+|---|:---:|:---:|
+| Login, saldo, velas, payouts | ✅ | ✅ |
+| Binárias, turbo e digitais | ✅ | ✅ |
+| **Operações Blitz** | ❌ | ✅ |
+| **Funções extras** | ❌ | ✅ |
+| Velocidade | Lenta | ⚡ **mais rápida** |
+| Atualizações | Desatualizada | 🔄 **totalmente atualizada** |
+
+<div align="center">
+
+<a href="https://wa.me/5541998892436?text=Ol%C3%A1%20Lucas%2C%20tenho%20interesse%20na%20vers%C3%A3o%20paga%20da%20API%20da%20IQ%20Option"><img src="https://img.shields.io/badge/💎%20%20Quero%20a%20versão%20paga-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="42" alt="Quero a versão paga"></a>
+
+</div>
+
+---
+
+## 🔌 Outras APIs disponíveis
+
+<div align="center">
+
+![Quotex](https://img.shields.io/badge/Quotex-1f2937?style=for-the-badge)
+![Pocket Option](https://img.shields.io/badge/Pocket%20Option-1f2937?style=for-the-badge)
+![Binomo](https://img.shields.io/badge/Binomo-1f2937?style=for-the-badge)
+![Stockity](https://img.shields.io/badge/Stockity-1f2937?style=for-the-badge)
+![Exnova](https://img.shields.io/badge/Exnova-1f2937?style=for-the-badge)
+![Bullex](https://img.shields.io/badge/Bullex-1f2937?style=for-the-badge)
+![Casatrade](https://img.shields.io/badge/Casatrade-1f2937?style=for-the-badge)
+![Polarium](https://img.shields.io/badge/Polarium-1f2937?style=for-the-badge)
+![Avalon](https://img.shields.io/badge/Avalon-1f2937?style=for-the-badge)
+![Broker 10](https://img.shields.io/badge/Broker%2010-1f2937?style=for-the-badge)
+![e outras](https://img.shields.io/badge/+%20outras-22c55e?style=for-the-badge)
+
+**🛠️ Faço API personalizada para qualquer corretora.**
+
+</div>
+
+## 🤖 Robôs personalizados
+
+Tem uma estratégia e quer automatizar? Desenvolvo **projetos de robôs personalizados** sob encomenda.
+
+<div align="center">
+
+<a href="https://wa.me/5541998892436?text=Ol%C3%A1%20Lucas%2C%20quero%20um%20or%C3%A7amento%20de%20API%20ou%20rob%C3%B4%20personalizado"><img src="https://img.shields.io/badge/🤖%20%20Pedir%20orçamento-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="42" alt="Pedir orçamento"></a>
+
+</div>
+
+---
+
+## 📞 Contato e compra
+
+| | |
+|---|---|
+| 💬 **WhatsApp** | [41 99889-2436](https://wa.me/5541998892436) |
+| ✉️ **E-mail** | [lukefeix@gmail.com](mailto:lukefeix@gmail.com) |
+| 📺 **YouTube** | [youtube.com/@lucascode](https://www.youtube.com/@lucascode) |
+
+---
+
+## 🚀 Instalação
+
+Requer **Python 3.10 ou superior**.
+
+```bash
+pip install -U https://github.com/lukefeix/iqoptionapi/archive/refs/heads/master.zip
+```
+
+```python
+from iqoptionapi.stable_api import IQ_Option
+
+API = IQ_Option("email", "senha")
+check, reason = API.connect()
+API.change_balance("PRACTICE")  # conta demo
+print(API.get_balance())
+```
+
+<details>
+<summary><b>✅ O que foi corrigido neste fork</b> (clique para ver)</summary>
+
+<br>
+
+- Compatível com a **websocket-client 1.9.2**: os eventos `on_message` e `on_close` aceitam os parâmetros da versão nova.
+- Lista de ativos **digitais** pela chamada nova da IQ Option (`digital-option-instruments.get-underlying-list` v3.0).
+- `get_instruments()` (crypto, forex, cfd) usava uma chamada que a IQ Option desativou e **travava para sempre**. Agora usa `marginal-<tipo>-instruments.get-underlying-list` e tem limite de 10 s.
+- `get_all_open_time()` atualiza sozinho os IDs dos ativos binários, turbo e digitais.
+- `constants.py` atualizado com **1.566 ativos**.
+- `get_candles()` com limite de 10 s e reconexão. Antes podia travar.
+- `update_ACTIVES_OPCODE()` voltou a devolver a lista de ativos.
+- `get_digital_payout()` devolve `0` quando não recebe resposta.
+
+> `get_all_open_time()` não traz os horários de cfd/forex/crypto, só binary, turbo e digital.
+
+</details>
+
+> [!WARNING]
+> Projeto não oficial, sem vínculo com a IQ Option. Operar opções envolve risco de perda. Teste sempre na conta demo (`PRACTICE`) antes de usar na conta real.
+
+<div align="center">
+
+⭐ **Se este fork te ajudou, deixe uma estrela no repositório!** ⭐
+
+</div>
+
+---
+
+# Documentação original
+
+A documentação abaixo é do projeto [iqoptionapi/iqoptionapi](https://github.com/iqoptionapi/iqoptionapi) (que vem de [Lu-Yi-Hsun](https://github.com/Lu-Yi-Hsun/iqoptionapi) e [n1nj4z33](https://github.com/n1nj4z33/iqoptionapi)) e foi mantida para referência. As instruções de instalação foram atualizadas para este fork.
 
 ## IQOPTION API SUPPORTED BY COMMUNITY
 
@@ -65,28 +164,6 @@ este es un repositorio no oficial, significa que es mantenido por la comunidad
 Due to the large amount of scammers that have appeared in the market, it is recommended that you DO NOT enter your password into an unknown exe or robot site that operates on iqoption because many of those have stolen people's passwords so be careful. It's best if you develop your robot or hire someone you trust.
 
 Devido a grande quantidade de golpistas que tem aparecido no mercado, recomenda-se que você NÃO inserir sua senha em exe ou sites de robo desconhecidos que opera na iqoption porque muitos desses tem roubado as senhas das pessoas então tomem cuidado. O melhor é você desenvolver seu robo ou contratar alguem de confiança. 
-
-### Canal no youtube explicando com trabalhar com a api
-
-Kodandao com Faria 
-
-https://www.youtube.com/channel/UCetDOTbLD_gCy0aI4aQwMsg
-
-<div align="center">
-	<h2> Idiomas | Languages </h2>
-	<a href="https://iqoptionapi.github.io/iqoptionapi/pt/">
-		<img src="doc/image/flags/br.png "
-		alt="Português" width="50" height="50" />
-	</a>
-	<a href="https://iqoptionapi.github.io/iqoptionapi/es/">
-		<img src="doc/image/flags/es.png "
-		alt="Espanol" width="50" height="50" />
-	</a>
-	<a href="https://iqoptionapi.github.io/iqoptionapi/en/">
-		<img src="doc/image/flags/en.png "
-		alt="English" width="50" height="50" />
-	</a>
-</div><br><br>
 
 This api is based on [Lu-Yi-Hsun](https://github.com/Lu-Yi-Hsun/iqoptionapi/)
 
@@ -131,22 +208,22 @@ I'm using this tools anaconda with python 3.7 with contains a lot of libs pre-in
 
 ## How to start
 
-You must have python installed version 3.7 or higher
+You must have python installed version 3.10 or higher
 
 then you must have websocket-client installed on your project
 
 ```python
-pip install websocket-client==0.56
+pip install "websocket-client>=1.9.2,<2"
 ```
 
 Now you can install this project as library:
 
 ```bash
-sudo pip install -U git+git://github.com/iqoptionapi/iqoptionapi.git
+pip install -U https://github.com/lukefeix/iqoptionapi/archive/refs/heads/master.zip
 
-OR 
+OR
 
-pip install -U https://github.com/iqoptionapi/iqoptionapi/archive/refs/heads/master.zip
+pip install -U git+https://github.com/lukefeix/iqoptionapi.git
 ```
 
 ```Python
@@ -169,26 +246,13 @@ from iqoptionapi.api import IQOptionAPI
 
 ## Can not loging problem
 
-#### fix way 1
+Este fork usa `websocket-client` 1.x. **Não** instale as versões antigas (`0.56` / `0.47`) que eram recomendadas aqui: com elas a API para de receber mensagens.
+
+Se o login falhar, reinstale a versão certa:
 
 ```bash
-sudo pip3 uninstall websocket-client
-sudo pip3 install websocket-client==0.56
-```
-
-### problem 2
-
-#### websocket conflict with websocket-client
-
-if you have this problem
-
-https://github.com/Lu-Yi-Hsun/iqoptionapi/issues/66
-
-fix way
-
-```bash
-sudo pip3 uninstall websocket
-sudo pip3 install websocket-client==0.47.0
+pip uninstall -y websocket websocket-client
+pip install "websocket-client>=1.9.2,<2"
 ```
 
 ---
